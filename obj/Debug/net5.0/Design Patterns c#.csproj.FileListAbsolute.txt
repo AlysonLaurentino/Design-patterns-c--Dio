@@ -1,0 +1,16 @@
+/home/alaurentino/Desktop/Design Patterns c#/bin/Debug/net5.0/Design Patterns c#
+/home/alaurentino/Desktop/Design Patterns c#/bin/Debug/net5.0/Design Patterns c#.deps.json
+/home/alaurentino/Desktop/Design Patterns c#/bin/Debug/net5.0/Design Patterns c#.runtimeconfig.json
+/home/alaurentino/Desktop/Design Patterns c#/bin/Debug/net5.0/Design Patterns c#.runtimeconfig.dev.json
+/home/alaurentino/Desktop/Design Patterns c#/bin/Debug/net5.0/Design Patterns c#.dll
+/home/alaurentino/Desktop/Design Patterns c#/bin/Debug/net5.0/ref/Design Patterns c#.dll
+/home/alaurentino/Desktop/Design Patterns c#/bin/Debug/net5.0/Design Patterns c#.pdb
+/home/alaurentino/Desktop/Design Patterns c#/obj/Debug/net5.0/Design Patterns c#.csprojAssemblyReference.cache
+/home/alaurentino/Desktop/Design Patterns c#/obj/Debug/net5.0/Design Patterns c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/alaurentino/Desktop/Design Patterns c#/obj/Debug/net5.0/Design Patterns c#.AssemblyInfoInputs.cache
+/home/alaurentino/Desktop/Design Patterns c#/obj/Debug/net5.0/Design Patterns c#.AssemblyInfo.cs
+/home/alaurentino/Desktop/Design Patterns c#/obj/Debug/net5.0/Design Patterns c#.csproj.CoreCompileInputs.cache
+/home/alaurentino/Desktop/Design Patterns c#/obj/Debug/net5.0/Design Patterns c#.dll
+/home/alaurentino/Desktop/Design Patterns c#/obj/Debug/net5.0/ref/Design Patterns c#.dll
+/home/alaurentino/Desktop/Design Patterns c#/obj/Debug/net5.0/Design Patterns c#.pdb
+/home/alaurentino/Desktop/Design Patterns c#/obj/Debug/net5.0/Design Patterns c#.genruntimeconfig.cache
